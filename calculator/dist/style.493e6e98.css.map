@@ -1,0 +1,1 @@
+{"version":3,"sources":["style/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.493e6e98.css","sourceRoot":"..","sourcesContent":[".container {\r\n    width: 80%;\r\n    margin: auto;\r\n}\r\n\r\n.calculator {\r\n    background-color: #000;\r\n    width: 50%;\r\n    margin: auto;\r\n    height: inherit;\r\n}"]}
